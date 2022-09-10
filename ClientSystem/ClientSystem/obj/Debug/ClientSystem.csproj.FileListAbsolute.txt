@@ -1,0 +1,10 @@
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\bin\Debug\ClientSystem.exe.config
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\bin\Debug\ClientSystem.exe
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\bin\Debug\ClientSystem.pdb
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.csprojAssemblyReference.cache
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.Form1.resources
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.Properties.Resources.resources
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.csproj.GenerateResource.cache
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.csproj.CoreCompileInputs.cache
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.exe
+C:\Users\Home-Comp\source\repos\ClientSystem\ClientSystem\obj\Debug\ClientSystem.pdb
